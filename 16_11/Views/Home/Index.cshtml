@@ -193,7 +193,21 @@
                                     </div>
                                 </a>
                             }
-                   
+                        </div>
+                        <div class="latest-prdouct__slider__item">
+                            @foreach (Product item in Model.Products.Take(3))
+                            {
+                                <a href="#" class="latest-product__item">
+                                    <div class="latest-product__item__pic">
+                                        <img src="~/img/latest-product/@item.ImgageLgURL" alt="">
+                                    </div>
+                                    <div class="latest-product__item__text">
+                                        <h6>@item.Name</h6>
+                                        <span>$@item.Price</span>
+                                    </div>
+                                </a>
+                            }
+
                         </div>
                     </div>
                 </div>
@@ -215,7 +229,20 @@
                                     </div>
                                 </a>
                             }
-                            
+                        </div>
+                        <div class="latest-prdouct__slider__item">
+                            @foreach (Product item in Model.Products.Take(3))
+                            {
+                                <a href="#" class="latest-product__item">
+                                    <div class="latest-product__item__pic">
+                                        <img src="~/img/latest-product/@item.ImgageLgURL" alt="">
+                                    </div>
+                                    <div class="latest-product__item__text">
+                                        <h6>@item.Name</h6>
+                                        <span>$@item.Price</span>
+                                    </div>
+                                </a>
+                            }
                         </div>
                     </div>
                 </div>
