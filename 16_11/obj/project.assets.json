@@ -98,12 +98,12 @@
         },
         "compile": {
           "ref/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtimeTargets": {
@@ -598,12 +598,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -2892,19 +2892,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ca.r214.17\\.nuget\\packages\\": {}
+    "C:\\Users\\T x\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\16_11.csproj",
+      "projectUniqueName": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\16_11.csproj",
       "projectName": "16_11",
-      "projectPath": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\16_11.csproj",
-      "packagesPath": "C:\\Users\\ca.r214.17\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\obj\\",
+      "projectPath": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\16_11.csproj",
+      "packagesPath": "C:\\Users\\T x\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ca.r214.17\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\T x\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2912,6 +2917,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2964,7 +2970,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

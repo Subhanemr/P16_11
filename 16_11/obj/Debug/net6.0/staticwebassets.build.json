@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hw5LZl7aYq3iN3/4fUTZXhYnvyNAzbDMfl+pgUaPin4=",
+  "Hash": "OkyKI7foXi5anO/AKfGQ/5jcfz1gVEOaRNVSjGoUbL8=",
   "Source": "16_11",
   "BasePath": "_content/16_11",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "16_11\\wwwroot",
       "Source": "16_11",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\css\\elegant-icons.css",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\css\\elegant-icons.css",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "css/elegant-icons.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\elegant-icons.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\css\\jquery-ui.min.css",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\css\\jquery-ui.min.css",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "css/jquery-ui.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-ui.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\css\\nice-select.css",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\css\\nice-select.css",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "css/nice-select.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\css\\owl.carousel.min.css",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\css\\slicknav.min.css",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\css\\slicknav.min.css",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "css/slicknav.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slicknav.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\css\\style.css",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\fonts\\ElegantIcons.eot",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\fonts\\ElegantIcons.eot",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "fonts/ElegantIcons.eot",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ElegantIcons.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\fonts\\ElegantIcons.svg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\fonts\\ElegantIcons.svg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "fonts/ElegantIcons.svg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ElegantIcons.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\fonts\\ElegantIcons.ttf",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "fonts/ElegantIcons.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ElegantIcons.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\fonts\\ElegantIcons.woff",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\fonts\\ElegantIcons.woff",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "fonts/ElegantIcons.woff",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\ElegantIcons.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\banner\\banner-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\banner\\banner-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/banner/banner-1.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\banner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\banner\\banner-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\banner\\banner-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/banner/banner-2.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\blog-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\blog-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/blog-1.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\blog-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\blog-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/blog-2.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\blog-3.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\blog-3.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/blog-3.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\blog-4.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\blog-4.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/blog-4.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\blog-5.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\blog-5.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/blog-5.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\blog-6.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\blog-6.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/blog-6.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\details\\details-author.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\details\\details-author.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/details/details-author.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\details-author.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\details\\details-hero.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\details\\details-hero.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/details/details-hero.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\details-hero.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\details\\details-pic.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/details/details-pic.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\details\\details-pic.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/sidebar/sr-1.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\sidebar\\sr-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/sidebar/sr-2.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\sidebar\\sr-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/blog/sidebar/sr-3.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\sidebar\\sr-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\breadcrumb.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\breadcrumb.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/breadcrumb.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\breadcrumb.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\cart\\cart-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\cart\\cart-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/cart/cart-1.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\cart-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\cart\\cart-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\cart\\cart-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/cart/cart-2.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\cart-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\cart\\cart-3.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\cart\\cart-3.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/cart/cart-3.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\cart-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\categories\\cat-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\categories\\cat-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/categories/cat-1.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\categories\\cat-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\categories\\cat-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/categories/cat-2.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\categories\\cat-3.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\categories\\cat-3.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/categories/cat-3.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\categories\\cat-4.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\categories\\cat-4.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/categories/cat-4.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\categories\\cat-5.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\categories\\cat-5.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/categories/cat-5.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\featured\\feature-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\featured\\feature-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/featured/feature-1.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\featured\\feature-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\featured\\feature-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/featured/feature-2.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\featured\\feature-3.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\featured\\feature-3.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/featured/feature-3.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\featured\\feature-4.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\featured\\feature-4.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/featured/feature-4.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\featured\\feature-5.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\featured\\feature-5.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/featured/feature-5.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\featured\\feature-6.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\featured\\feature-6.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/featured/feature-6.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\featured\\feature-7.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\featured\\feature-7.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/featured/feature-7.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\featured\\feature-8.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\featured\\feature-8.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/featured/feature-8.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\featured\\feature-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\hero\\banner.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\hero\\banner.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/hero/banner.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero\\banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\language.png",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\language.png",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/language.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\language.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\latest-product\\lp-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\latest-product\\lp-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/latest-product/lp-1.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-product\\lp-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\latest-product\\lp-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\latest-product\\lp-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/latest-product/lp-2.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-product\\lp-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\latest-product\\lp-3.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\latest-product\\lp-3.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/latest-product/lp-3.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-product\\lp-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\logo.png",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\payment-item.png",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\payment-item.png",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/payment-item.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\payment-item.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\details\\product-details-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\details\\product-details-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/details/product-details-1.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\product-details-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\details\\product-details-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\details\\product-details-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/details/product-details-2.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\product-details-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\details\\product-details-3.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\details\\product-details-3.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/details/product-details-3.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\product-details-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\details\\product-details-4.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\details\\product-details-4.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/details/product-details-4.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\product-details-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\details\\product-details-5.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\details\\product-details-5.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/details/product-details-5.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\product-details-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\details\\thumb-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/details/thumb-1.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\thumb-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\details\\thumb-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/details/thumb-2.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\thumb-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\details\\thumb-3.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/details/thumb-3.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\thumb-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\details\\thumb-4.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/details/thumb-4.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\details\\thumb-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/discount/pd-1.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/discount/pd-2.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-3.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-3.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/discount/pd-3.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-4.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-4.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/discount/pd-4.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-5.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-5.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/discount/pd-5.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-6.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\discount\\pd-6.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/discount/pd-6.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\discount\\pd-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-1.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-1.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-1.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-10.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-10.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-10.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-11.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-11.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-11.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-12.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-12.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-12.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-2.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-2.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-2.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-3.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-3.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-3.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-4.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-4.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-4.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-5.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-5.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-5.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-6.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-6.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-6.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-7.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-7.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-7.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-8.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-8.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-8.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\img\\product\\product-9.jpg",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\img\\product\\product-9.jpg",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "img/product/product-9.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product\\product-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\js\\jquery.nice-select.min.js",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\js\\jquery.nice-select.min.js",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "js/jquery.nice-select.min.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.nice-select.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\js\\jquery.slicknav.js",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\js\\jquery.slicknav.js",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "js/jquery.slicknav.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.slicknav.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\js\\jquery-3.3.1.min.js",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\js\\jquery-ui.min.js",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\js\\jquery-ui.min.js",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "js/jquery-ui.min.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\js\\main.js",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\js\\mixitup.min.js",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\js\\mixitup.min.js",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "js/mixitup.min.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\js\\mixitup.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "16_11",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\16_11\\16_11\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T x\\Desktop\\Praktika\\P16_11\\16_11\\wwwroot\\",
       "BasePath": "_content/16_11",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
