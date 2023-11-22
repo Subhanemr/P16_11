@@ -7,7 +7,7 @@
         <div class="card-body">
             <h4 class="card-title">
                 
-                Productstable</h4>
+                Products Table</h4>
             <a asp-controller="Product" asp-action="Create" class="btn btn-warning fw-bold fs-6 text-white">Create Product</a>
             <div class="table-responsive pt-3">
                 <table class="table table-bordered">
@@ -15,6 +15,9 @@
                         <tr>
                             <th>
                                 #
+                            </th>
+                            <th>
+                                Image
                             </th>
                             <th>
                                 Name
@@ -46,13 +49,16 @@
                                     @count
                                 </td>
                                 <td>
+                                    <img src="~/img/featured/@product.ImgageURL" />
+                                </td>
+                                <td>
                                     @product.Name
                                 </td>
                                 <td>
                                     @product.Category.Name
                                 </td>
                                 <td>
-                                    @product.Price
+                                    $@product.Price
                                 </td>
                                 <td>
                                     @product.Department.Name

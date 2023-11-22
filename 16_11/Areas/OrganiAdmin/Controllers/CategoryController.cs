@@ -28,11 +28,11 @@ namespace _16_11.Areas.OrganiAdmin.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(Product product)
+        public async Task<IActionResult> Create(Category category)
         {
             if (!ModelState.IsValid) return View();
 
-            bool result = _context.Products.Any(c => c.Name.ToLower().Trim() == product.Name.ToLower().Trim());
+            bool result = _context.Categories.Any(c => c.Name.ToLower().Trim() == category.Name.ToLower().Trim());
 
             if (result)
             {
@@ -40,7 +40,31 @@ namespace _16_11.Areas.OrganiAdmin.Controllers
                 return View();
             }
 
-            await _context.Products.AddAsync(product);
+            await _context.Categories.AddAsync(category);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Update()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(int id, Category category)
+        {
+            if (!ModelState.IsValid) return View();
+
+            bool result = _context.Categories.Any(c => c.Name.ToLower().Trim() == category.Name.ToLower().Trim());
+
+            if (result)
+            {
+                ModelState.AddModelError("Name", "Name is available");
+                return View();
+            }
+
+            await _context.Categories.AddAsync(category);
             await _context.SaveChangesAsync();
 
             return RedirectToAction("Index");
