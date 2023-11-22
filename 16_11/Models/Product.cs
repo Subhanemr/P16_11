@@ -10,6 +10,9 @@
         public DateTime CreatedDate { get; set; }
         public int DepartmentId { get; set; }
         public Department Department { get; set; }
+        public Category? Category { get; set; }
+        public int? CategoryId { get; set; }
+
 
     }
 }

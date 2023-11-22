@@ -53,6 +53,23 @@ namespace _16_11.Migrations
                     b.ToTable("Blogs");
                 });
 
+            modelBuilder.Entity("_16_11.Models.Category", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Categories");
+                });
+
             modelBuilder.Entity("_16_11.Models.Department", b =>
                 {
                     b.Property<int>("Id")
@@ -86,6 +103,9 @@ namespace _16_11.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int?>("CategoryId")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
@@ -109,6 +129,8 @@ namespace _16_11.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CategoryId");
+
                     b.HasIndex("DepartmentId");
 
                     b.ToTable("Products");
@@ -116,11 +138,17 @@ namespace _16_11.Migrations
 
             modelBuilder.Entity("_16_11.Models.Product", b =>
                 {
+                    b.HasOne("_16_11.Models.Category", "Category")
+                        .WithMany()
+                        .HasForeignKey("CategoryId");
+
                     b.HasOne("_16_11.Models.Department", "Department")
                         .WithMany()
                         .HasForeignKey("DepartmentId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Category");
 
                     b.Navigation("Department");
                 });

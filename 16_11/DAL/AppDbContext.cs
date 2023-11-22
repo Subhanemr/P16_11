@@ -10,6 +10,8 @@ namespace _16_11.DAL
 		public DbSet<Blog> Blogs { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Department> Departments { get; set; }
+        public DbSet<Category> Categories { get; set; }
+
 
     }
 }
